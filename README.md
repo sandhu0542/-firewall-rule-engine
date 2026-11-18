@@ -2,7 +2,7 @@
 
 > A high-performance firewall rule parser, conflict detector, and ruleset optimizer built in V for iptables and nftables configurations.
 
-[![Author](https://img.shields.io/badge/Made%20by-cyber--atharv-00ffcc?style=flat-square&logo=github)](https://github.com/cyber-atharv)
+[![Author](https://img.shields.io/badge/Made%20by-cyber--atharv-00ffcc?style=flat-square&logo=github)](https://github.com/sandhu0542)
 [![V Language](https://img.shields.io/badge/V-0.5+-5D87BF?style=flat-square&logo=v&logoColor=white)](https://vlang.io)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 
